@@ -1,0 +1,19 @@
+body{font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 0.8em;}
+
+.logo {width: 150px;
+    margin: 0 auto;
+    text-align: justify;
+}
+.container {margin: 0 auto;
+width: 80vh;}
+.subtitle{ background-color: #FDFBF1;
+line-height: 5;
+}
+a{color: #008080;}
+hr{
+    border-color: #c4f3f2;
+}
+ul{
+    line-height: 2;
+}
